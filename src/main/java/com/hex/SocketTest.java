@@ -7,7 +7,7 @@ import java.net.Socket;
 
 public class SocketTest {
 
-	public static void main(String[] args) throws IOException {
+	public static void socketTest() throws IOException {
 		// TODO Auto-generated method stub
 		// 为了简单起见，所有的异常都直接往外抛
 		String host = "127.0.0.1"; // 要连接的服务端IP地址

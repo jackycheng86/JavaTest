@@ -1,14 +1,14 @@
 package com.json;
 
-import java.io.IOException;
-
 import org.codehaus.jackson.JsonParseException;
 import org.codehaus.jackson.map.JsonMappingException;
 import org.codehaus.jackson.map.ObjectMapper;
 
+import java.io.IOException;
+
 public class JsonTest {
 
-	public static void main(String[] args) {
+	public static void jsonTest(String[] args) {
 		// TODO Auto-generated method stub
 		String s = "{\"HANDLE\":1218125432,\"Result\":true,\"Message\":null}";
 		String ss=s.toLowerCase();

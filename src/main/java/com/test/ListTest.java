@@ -16,7 +16,7 @@ public class ListTest {
 	 * @param args
 	 * void
 	 */
-	public static void main(String[] args) {
+	public static void listTest(String[] args) {
 		// TODO Auto-generated method stub
 		List<String> list=new ArrayList<String>();
 		list.add("1");

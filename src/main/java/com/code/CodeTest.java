@@ -16,7 +16,7 @@ public class CodeTest {
 	 * @param args
 	 * void
 	 */
-	public static void main(String[] args) {
+	public static void codeTest(String[] args) {
 		// TODO Auto-generated method stub
 		
 	//  char start = a;

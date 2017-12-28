@@ -14,7 +14,7 @@ public class ClassTest {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void calssTest() {
 		// TODO Auto-generated method stub
 		Object o;
 		int i=3;

@@ -2,10 +2,6 @@ package com.hex;
 
 public class ConverterUtil {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
 
 	/**
 	 * 检查消息

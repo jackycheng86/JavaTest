@@ -46,7 +46,7 @@ public class ReadFile {
 		return true;
 	}
 
-	public static void main(String[] args) {
+	public static void readFileTest(String[] args) {
 		try {
 			readfile("//home");
 			// deletefile("D:/file");

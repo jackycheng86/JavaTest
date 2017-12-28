@@ -4,7 +4,7 @@ import java.io.UnsupportedEncodingException;
 
 public class HexString {
 
-	public static void main(String[] args) throws UnsupportedEncodingException {
+	public static void hexStringTest(String[] args) throws UnsupportedEncodingException {
 		// TODO Auto-generated method stub
 		// String t1="{\"HANDLE\":1218125432,\"Result\":true,\"Message\":null}";
 		// System.out.println(toHexString(t1));

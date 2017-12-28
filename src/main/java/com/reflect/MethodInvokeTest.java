@@ -9,7 +9,7 @@ public class MethodInvokeTest {
 	 * @param args
 	 * void
 	 */
-	public static void main(String[] args) {
+	public static void methodInvodeTest(String[] args) {
 		// TODO Auto-generated method stub
 		Foo foo=new Foo("这是Foo对象");
 		Class clazz=foo.getClass();

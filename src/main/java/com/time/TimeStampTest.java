@@ -8,7 +8,7 @@ public class TimeStampTest {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void timeStampTest(String[] args) {
 		// TODO Auto-generated method stub
 		String timestamp=getTimeStamp();
 		System.out.println(timestamp);

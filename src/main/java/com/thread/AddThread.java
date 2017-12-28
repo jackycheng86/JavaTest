@@ -20,7 +20,7 @@ public class AddThread implements Runnable {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void addThreadTest(String[] args) {
 		// TODO Auto-generated method stub
 
 	}

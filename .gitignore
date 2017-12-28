@@ -1,1 +1,6 @@
 /target/
+/.idea/
+/.gitignore
+/src/main/main.iml
+/src/test/test.iml
+/JavaTest.iml

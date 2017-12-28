@@ -16,7 +16,7 @@ public class MD5Test {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void md5Test(String[] args) {
 		// TODO Auto-generated method stub
 //		String api_sec_md5 = "0b4e7a0e5fe84ad35fb5f95b9ceeac79";
 //		String api_key = "api@demo.eyou.net";

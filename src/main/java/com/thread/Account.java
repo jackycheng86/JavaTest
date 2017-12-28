@@ -29,7 +29,7 @@ public class Account {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void accountTest(String[] args) {
 		// TODO Auto-generated method stub
 		Account account = new Account(1000);    
 		Thread a = new Thread(new AddThread(account, 20), "add");    

@@ -11,7 +11,7 @@ import java.io.File;
  */
 public class FileTest {
 	
-	public static void main(String[] args){
+	public static void fileTest(String[] args){
 		File file=new File("C:"+File.separator+"tmp"+File.separator+"test.txt");
 		System.out.println(file.getName());
 		System.out.println(file.getPath());

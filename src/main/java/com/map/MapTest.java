@@ -18,7 +18,7 @@ public class MapTest {
 	 * @param args
 	 * void
 	 */
-	public static void main(String[] args) {
+	public static void mapTest(String[] args) {
 		// TODO Auto-generated method stub
 
 		Map<String, List<String>> map=new HashMap<String, List<String>>();

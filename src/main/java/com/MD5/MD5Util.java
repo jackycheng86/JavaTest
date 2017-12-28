@@ -55,7 +55,7 @@ public class MD5Util {
 	}
 
 	// 测试主函数
-	public static void main(String args[]) {
+	public static void md5UtilTest(String args[]) {
 		String s = new String("eyou@sicnu.edu.cn");
 		System.out.println("原始：" + s);
 		System.out.println("MD5后：" + MD5(s));

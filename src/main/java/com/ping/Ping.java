@@ -1,4 +1,4 @@
-package com;
+package com.ping;
 
 import java.io.IOException;
 import java.net.InetAddress;
@@ -163,7 +163,7 @@ public class Ping {
             }
         }
     }
-    public static void main(String[] args) throws InterruptedException,
+    public static void pingTest(String[] args) throws InterruptedException,
             IOException {
         args = new String[] { "8888", "192.168.1.1" };
         if (args.length < 1) {

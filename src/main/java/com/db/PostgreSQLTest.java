@@ -15,7 +15,7 @@ public class PostgreSQLTest {
 	/**
 	 * @param args
 	 */
-	public static void main(String[] args) {
+	public static void postgreSQLTest(String[] args) {
 		// TODO Auto-generated method stub
 		DBConnection connection=new DBConnection();
 		String driver = "org.postgresql.Driver"; // 驱动字符串

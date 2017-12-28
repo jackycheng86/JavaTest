@@ -6,7 +6,7 @@ public class ClassTest {
 	 * @param args
 	 * void
 	 */
-	public static void main(String[] args) {
+	public static void classTest(String[] args) {
 		// TODO Auto-generated method stub
 		String a="ss";
 		Object b=a;

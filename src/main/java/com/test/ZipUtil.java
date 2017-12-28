@@ -123,7 +123,7 @@ public class ZipUtil {
 	            dir.mkdir();   
 	    } 
 	    
-	    public static void main(String[] args){
+	    public static void zipTest(String[] args){
 	    	String zipFileName = "e:\\test.zip"; //打包后文件名字 
 	    	String output="e:\\codeTable";
 	        System.out.println(zipFileName);
